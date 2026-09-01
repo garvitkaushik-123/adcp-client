@@ -1,5 +1,11 @@
 # Changelog
 
+## 14.0.0-beta.26
+
+### Minor Changes
+
+- 8446c55: Make the structured-content text fallback a marked, per-client transport-edge decoration while keeping canonical cached responses and A2A artifacts clean.
+
 ## 14.0.0-beta.25
 
 ### Patch Changes
